@@ -1,6 +1,5 @@
 # dot-phone-delivery
 
-DOT Phone Delivery
 Aplikasi utk memesan HP secara online
 
 DOT Cek Ongkir Flow
