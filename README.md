@@ -8,6 +8,7 @@ DOT Cek Ongkir Flow
 
 Sampel Response Cek Ongkir
 
-![sampel response](https://user-images.githubusercontent.com/43059329/128633140-1ad1725c-40ad-4816-b697-f2df020e6a9a.png)
+![sampel response](https://user-images.githubusercontent.com/43059329/128633202-0ee4b763-d292-484e-80da-5fa4c1906bba.png)
+
 
 
